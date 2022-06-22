@@ -8,7 +8,7 @@
     <body>
     <div class = "container">
     This is my first php website
-    <?php echo "Vishal Hello World this is printed using PHP"; // Search Algo ?>
+    <?php echo "Vishal Hello World this is printed using PHP"; // Secret  Algo ?>
     </div>
     </body>
 </html>
