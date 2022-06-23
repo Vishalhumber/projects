@@ -47,7 +47,7 @@ echo $variable1--;
 echo ++ &variable1;
 echo -- $variable1;
 // Logical Operator
-
+//Just being consistent on github
 
     //Logical Operator 
 
