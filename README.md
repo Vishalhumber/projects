@@ -1,10 +1,5 @@
 # projects
 
-# PersonalProjectJune
-
-# DiceSimulator
-
-# Quiz_Game_Starter
-
-# PLSQL and JavaScript
-# adding projects done today
+#project reviewAnalytics
+#step 1 create environment and files
+#seek video reference and complete the task
